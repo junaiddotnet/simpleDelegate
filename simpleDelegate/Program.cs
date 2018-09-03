@@ -13,7 +13,7 @@ namespace simpleDelegate
             Console.WriteLine("Txt message has send .."+arg.video.Title);
         }
     }
-    
+       
 
     delegate void messageProcessor(string x);
     class Person
